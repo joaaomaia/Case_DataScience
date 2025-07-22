@@ -1,0 +1,15 @@
+name: case_ds
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - shap
+  - lightgbm
+  - xgboost
+  - pip:
+      - notebook
